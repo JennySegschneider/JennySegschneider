@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-my name is Jenny Segschneider and I am a PhD student at [Research Area Discrete Optimization](https://www.math2.rwth-aachen.de/en/home) at RWTH Aachen University.
+My name is Jenny Segschneider and I am a PhD student at [Research Area Discrete Optimization](https://www.math2.rwth-aachen.de/en/home) at RWTH Aachen University.
 
 <!--
 **JennySegschneider/JennySegschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
