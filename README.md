@@ -2,13 +2,12 @@
 
 ### PhD Candidate in Mathematical Optimization
 
-I recently submitted my PhD thesis in mathematics at [Research Area Discrete Optimization](https://www.math2.rwth-aachen.de/en/home), RWTH Aachen and am now transitioning into industry roles where I can combine analytical thinking with practical computational and software-engineering skills.
+I recently submitted my PhD thesis in mathematics at [Research Area Discrete Optimization](https://www.math2.rwth-aachen.de/en/home), RWTH Aachen and am now looking to transition into industry roles where I can combine analytical thinking with practical computational skills.
 
-My GitHub is where I build and showcase projects that reflect both sides of my background:
+My GitHub is where I build and showcase projects that reflect my background:
 
 - 🧮 mathematical insight
 - 📊 computational modeling
-- 📱 software development
 - 💡 personal projects that explore ideas I’m genuinely curious about
 
 ### 🧑‍💻 What I code with:
